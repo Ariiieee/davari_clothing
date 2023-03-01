@@ -1,5 +1,5 @@
 import React from "react";
-import Directory from "../../Directory/Directory";
+import Directory from "../../directory/Directory";
 
 const Home = () => {
 	const categories = [
@@ -34,3 +34,5 @@ const Home = () => {
 };
 
 export default Home;
+
+//NOTE: route is a folder that holds our top level components

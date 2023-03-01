@@ -2,7 +2,7 @@ import React from "react";
 import {Outlet} from "react-router-dom";
 import Directory from "../../components/directory/Directory";
 
-const home = () => {
+const Home = () => {
 	const categories = [
 		{
 			id: 1,
@@ -39,4 +39,4 @@ const home = () => {
 	);
 };
 
-export default home;
+export default Home;
