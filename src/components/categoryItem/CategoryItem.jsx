@@ -1,5 +1,5 @@
 import React from "react";
-import "../catergoryItem/categoryItem.styles.scss";
+import "../categoryItem/categoryItem.styles.scss";
 
 const CategoryItem = ({category}) => {
 	return (

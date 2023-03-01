@@ -14,7 +14,7 @@ const App = () => {
 		);
 	};
 	const Shop = () => {
-		return <div>This is a shop</div>
+		return <div>This is a shop</div>;
 	};
 	return (
 		<Routes>
